@@ -18,6 +18,7 @@ def calorieintake(cal):
         print("Consume within maintenance")
     elif (cal >= 2500) and (cal <= 2900):
         print("Bulk phase")
+        print("Cut sooner")
     else:
         print("Maintenance is reached")
 
