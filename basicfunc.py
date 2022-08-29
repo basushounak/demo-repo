@@ -6,6 +6,7 @@ def basicfunc(s):
 
     else:
         print("Go to sleep")
+        print("Sleep for 8 hours too !")
 def sleepcyc(sleep):
     if sleep == 8:
         print("Complete Sleep")
